@@ -1,0 +1,7 @@
+{
+  "name": "Simulacro",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
